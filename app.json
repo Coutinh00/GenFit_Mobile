@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "GenFit RH",
+    "slug": "genfit-rh",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2563EB",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2563EB"
+      }
+    },
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}
+
