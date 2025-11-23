@@ -311,7 +311,9 @@ O suporte web no Windows com Expo SDK 49 tem problemas. Se precisar testar na we
 
 ## 👥 Autores
 
-Desenvolvido como projeto acadêmico para a disciplina de Mobile Application Development - FIAP.
+Vinicius Murtinho Vicente Rm551151 
+Lucas Barreto Consentino RM557107
+Gustavo Bispo Cordeiro RM558515
 
 ## 📄 Licença
 
